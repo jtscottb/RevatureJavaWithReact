@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Day10 Collection/src"/>
+	<classpathentry kind="src" path="Day10 Exception/src"/>
+	<classpathentry kind="src" path="Day5"/>
+	<classpathentry kind="src" path="Day6/src"/>
+	<classpathentry kind="src" path="Day7/src"/>
+	<classpathentry kind="src" path="Day8 Revisit/src"/>
+	<classpathentry kind="src" path="Day9/src"/>
+	<classpathentry kind="output" path="Day10 Collection/bin"/>
+</classpath>
